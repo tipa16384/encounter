@@ -2,7 +2,7 @@
 ## a single encounter roguelike
 ### written in one day while bored
 
-1. Download `encounter.zip` from the `dists` folder
+1. Download `encounter.zip` from the `dist` folder
 2. Unzip it somewhere
 3. Run `encounter.exe`. It _should_ run, even if you don't have Python installed.
 4. All the commands you can use are shown. Examine those carefully.
